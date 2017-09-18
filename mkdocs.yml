@@ -1,0 +1,65 @@
+# Project information
+site_name: Yakiv Mospan
+site_description: 'Personal Site'
+site_author: 'Yakiv Mospan'
+site_url: 'https://yakivmospan.com'
+
+# Repository
+repo_name: 'GitHub'
+repo_url: 'https://github.com/yakivmospan/gists'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 - 2018 Yakiv Mospan'
+
+# Documentation and theme
+theme_dir: 'material'
+
+# Options
+extra:
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+  logo:
+    icon: 'android'
+  feature:
+    tabs: false
+  social:
+    - type: 'github'
+      link: 'https://github.com/yakivmospan'
+    - type: 'stack-overflow'
+      link: 'https://stackoverflow.com/users/1805989/yakiv-mospan'
+    - type: 'twitter'
+      link: 'https://twitter.com/yakivmospan'
+    - type: 'slideshare'
+      link: 'https://speakerdeck.com/yakivmospan'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/yakiv-mospan-823a92a8/'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/yakiv.mospan'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/yakivmospan/'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - meta
+  - codehilite
+  - toc(permalink=true)
+
+# Google Analytics
+# google_analytics:
+#   - 'UA-4482495-4'
+#   - 'auto'
+
+pages:
+    - About: index.md
+    - Experience: experience.md
+    - Portfolio: portfolio.md
+    - Contact: contact.md
+    - Blog:
+      - Best Practice - Application: blog/best-practice-application.md
+      - Best Practice - SharedPreferences: blog/best-practice-shared-preferences.md
+      - Volley Request Manager: blog/volley-request-manager.md
+      - Volley Mini Request Manager: blog/volley-mini-request-manager.md
+      - Say hello to Pebble: blog/say-hello-to-pebble.md
+      - Ghosts in office: blog/ghosts-in-office.md
