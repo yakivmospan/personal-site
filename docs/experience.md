@@ -77,4 +77,4 @@ The same holds for articles and presentations.
 - Author on [Medium](https://medium.com/@yakivmospan) online publishing platform
 - Author of [webinars](https://www.youtube.com/channel/UC51s9JkZeO4ezCuJugFiKFg/videos) in Android Dev Ua community
 - Author of articles at [Material Doc](https://materialdoc.com/)
-- Speaker of internal talks in company I work at and external, at [GDG Lviv Group](http://lviv.gdg.org.ua/)
+- Speaker at internal events of the company I work at and external [GDG Lviv Group](http://lviv.gdg.org.ua/) events
