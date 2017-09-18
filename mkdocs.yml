@@ -46,10 +46,10 @@ markdown_extensions:
   - codehilite
   - toc(permalink=true)
 
-# Google Analytics
-# google_analytics:
-#   - 'UA-4482495-4'
-#   - 'auto'
+Google Analytics
+google_analytics:
+  - 'UA-65908354-3'
+  - 'auto'
 
 pages:
     - About: index.md
