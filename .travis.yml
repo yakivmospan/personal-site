@@ -12,4 +12,4 @@ deploy:
   provider: firebase
   token:
     secure: $FIREBASE_API_TOKEN
-  project: "personal-site"
+  project: "personal-site-941e8"
