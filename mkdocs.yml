@@ -13,6 +13,7 @@ copyright: 'Copyright &copy; 2017 - 2018 Yakiv Mospan'
 
 # Documentation and theme
 theme_dir: 'material'
+site_favicon: 'assets/images/favicon.ico'
 
 # Options
 extra:
