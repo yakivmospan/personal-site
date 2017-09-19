@@ -76,5 +76,5 @@ The same holds for articles and presentations.
 - Author of technical [Blog](/blog/best-practice-application.md)
 - Author on [Medium](https://medium.com/@yakivmospan) online publishing platform
 - Author of [webinars](https://www.youtube.com/channel/UC51s9JkZeO4ezCuJugFiKFg/videos) in Android Dev Ua community
-- Author of articles at [Material Doc](https://materialdoc.com/)
-- Speaker at internal events of the company I work at and external [GDG Lviv Group](http://lviv.gdg.org.ua/) events
+- Author of technical articles at [Material Doc](https://materialdoc.com/)
+- [Speaker](https://speakerdeck.com/yakivmospan) at internal events of the company I work at and external [GDG Lviv Group](http://lviv.gdg.org.ua/) events
