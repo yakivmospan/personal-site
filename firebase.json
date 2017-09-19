@@ -3,6 +3,39 @@
     "public": "site",
     "ignore": [
       "firebase.json"
+    ],
+
+    "redirects": [
+        {
+          "source" : "/ghosts-in-office/",
+          "destination" : "/blog/ghosts-in-office/",
+          "type" : 301
+        },
+        {
+          "source" : "/best-practices-for-application/",
+          "destination" : "/blog/best-practice-application/",
+          "type" : 301
+        },
+        {
+          "source" : "/best-practices-for-sharedpreferences/",
+          "destination" : "/blog/best-practice-shared-preferences/",
+          "type" : 301
+        },
+        {
+          "source" : "/say-hello-to-pebble/",
+          "destination" : "/blog/say-hello-to-pebble",
+          "type" : 301
+        },
+        {
+          "source" : "/volley-request-manager-lite/",
+          "destination" : "/blog/volley-mini-request-manager/",
+          "type" : 301
+        },
+        {
+          "source" : "/volley-request-manager-2/",
+          "destination" : "/blog/volley-request-manager/",
+          "type" : 301
+        }
     ]
   }
 }
