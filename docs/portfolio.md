@@ -6,7 +6,7 @@ Secrets Keeper is a simple secure application that uses Android Key Store API, F
 
 Project is open sourced and hosted on [GitHub](https://github.com/TeamTechnologies/security-workshop-sample).
 
-![](/assets/images/portfolio-portfolio-secrets-keeper-thumbnail.png)
+![](/assets/images/portfolio-secrets-keeper-thumbnail.png)
 
 ## Yallo
 
