@@ -1,5 +1,13 @@
 
 
+## Secrets Keeper
+
+Secrets Keeper is a simple secure application that uses Android Key Store API, Fingerprint API and Confirm Credentials API to keep your secrets in safe.
+
+Project is open sourced and hosted on [GitHub](https://github.com/TeamTechnologies/security-workshop-sample).
+
+![](/assets/images/portfolio-portfolio-secrets-keeper-thumbnail.png)
+
 ## Yallo
 
 With Yallo you will be able to call any destination in the world! All calls made through Yallo, both incoming and outgoing, will benefit from all of Yallo’s features for free.
