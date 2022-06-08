@@ -1,10 +1,35 @@
 
 
+## YUMPU News
+
+Find and read the premium magazines and newspapers that you know and hundreds more that you don’t - all for one single monthly fee YUMPU offers the best content to entertain, inspire, and educate you.
+
+Read smart! With the YUMPU newsstand app you can read magazines and newspapers in one digital magazine flatrate both online and offline anytime and anywhere!
+
+![](/assets/images/portfolio-yumpu-news-thumbnail.png)
+
+## APPKiosk
+
+The future of digital magazine publishing is here: The Yumpu – Digital Publishing App is an all-in-one digital publishing solution that lets you present all your magazines combined in a single kiosk app.
+
+You can let your content speak for itself in your own app - everywhere & at any time.
+Download our app for free and see how your digital publications would look like in your own app (by connecting your Yumpu account with the app). If you do not have an account yet, you can sign up for free at any time.
+
+![](/assets/images/portfolio-appkiosk-thumbnail.png)
+
+## Coffee Shop
+
+Flutter based sample e-commerce application about coffee ordering. Main goal of which is to gain more expertise in mobile cross-platform app development.
+
+Project is open sourced and hosted on [GitHub](https://github.com/temyco/coffee-shop){target=_blank}.
+
+![](/assets/images/portfolio-cofee-shop-thumbnail.png)
+
 ## Secrets Keeper
 
 Secrets Keeper is a simple secure application that uses Android Key Store API, Fingerprint API and Confirm Credentials API to keep your secrets in safe.
 
-Project is open sourced and hosted on [GitHub](https://github.com/TeamTechnologies/security-workshop-sample).
+Project is open sourced and hosted on [GitHub](https://github.com/TeamTechnologies/security-workshop-sample){target=_blank}.
 
 ![](/assets/images/portfolio-secrets-keeper-thumbnail.png)
 

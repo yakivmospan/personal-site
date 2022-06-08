@@ -1,0 +1,4 @@
+/* Hides footer "prev" & "next" page buttons */
+.md-footer__inner:not([hidden]) {
+    display: none
+}

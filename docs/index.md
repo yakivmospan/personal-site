@@ -1,19 +1,25 @@
+<style>
+  .md-sidebar--secondary:not([hidden]) {
+    visibility: hidden;
+  }
+</style>
+
 ![](/assets/images/avatar.png)
 
 I like video games since I was a child. Beautiful and creative worlds and histories, amazing animation and charismatic characters - games pushed me to become a developer.
 
-Today I'm successful Android Developer at [Team Technologies](http://temy.co/). Author. Contributor. Love what I do, working hard to become better and, of course, not forgetting to make some fun.
+Today I'm successful Android Developer & Competence Lead at [Temy](http://temy.co/){target=_blank}. Author. Contributor. Love what I do, working hard to become better and, of course, not forgetting to make some fun.
 
 ## Hobbies & Interests
 
-<i style="width:10px; margin-right:12px; color: #74C6BE;" class="fa fa-globe"></i>Programming
-<i style="width:10px; margin-left:5px; margin-right:12px; color: #74C6BE;" class="fa fa-android"></i>Android
-<i style="width:10px; margin-left:5px; margin-right:12px; color: #74C6BE;" class="fa fa-plane"></i>Travel
-<i style="width:10px; margin-left:5px; margin-right:12px; color: #74C6BE;" class="fa fa-video-camera"></i>Cinema
-<i style="width:10px; margin-left:5px; margin-right:12px; color: #74C6BE;" class="fa fa-book"></i>Reading
-<i style="width:10px; margin-left:5px; margin-right:12px; color: #74C6BE;" class="fa fa-gamepad"></i>Games
-<i style="width:12px; margin-left:5px; margin-right:12px; color: #74C6BE;" class="fa fa-bicycle"></i>Sport
-<i style="width:10px; margin-left:5px; margin-right:12px; color: #74C6BE;" class="fa fa-home"></i>Family
+:fontawesome-solid-globe:{style="margin-left:0px; margin-right:5px; color: #74C6BE;"}Programming
+:fontawesome-brands-android:{style="margin-left:5px; margin-right:5px; color: #74C6BE;"}Android
+:fontawesome-solid-plane:{style="margin-left:5px; margin-right:5px; color: #74C6BE;"}Travel
+:fontawesome-solid-video:{style="margin-left:5px; margin-right:5px; color: #74C6BE;"}Cinema
+:fontawesome-solid-book:{style="margin-left:5px; margin-right:5px; color: #74C6BE;"}Reading
+:fontawesome-solid-gamepad:{style="margin-left:5px; margin-right:5px; color: #74C6BE;"}Games
+:fontawesome-solid-bicycle:{style="margin-left:5px; margin-right:5px; color: #74C6BE;"}Sport
+:fontawesome-solid-house:{style="margin-left:5px; margin-right:5px; color: #74C6BE;"}Family
 
 ## Personal Skills
 
@@ -29,7 +35,6 @@ Today I'm successful Android Developer at [Team Technologies](http://temy.co/). 
 
 _(Order matters)_
 
-- Learn new [Android](https://developer.android.com/index.html) features
-- Improve [Kotlin](https://kotlinlang.org/) knowledge
-- Learn [Swift](https://developer.apple.com/swift/)
-- Continue to learn [Unity](https://unity3d.com)
+- Learn new [Android](https://developer.android.com/index.html){target=_blank} features
+- Improve [Kotlin](https://kotlinlang.org/){target=_blank} knowledge
+- Improve [Unity](https://unity3d.com){target=_blank} knowledge

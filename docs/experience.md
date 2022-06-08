@@ -7,6 +7,8 @@ _(Ordered by experience level)_
 - Java
 - Android
 - Kotlin
+- Flutter
+- Dart
 - JavaScript
 - React Native
 - JNI
@@ -16,14 +18,37 @@ _(Ordered by experience level)_
 
 ## Work History
 
+_Competence Center Leader (end of 2021 - Current)_<br>
+[Temy](http://temy.co/){target=_blank}
+
+- Helping Competence Leaders to setup and manage Competence Groups
+- Working tightly with HR's And Leaders to improve Competence Center processes
+- Onboarding for new Competence Leaders
+- One-to-ones with Competence Group Leaders
+
+---
+
+_Android Competence Group Leader (2019 - Current)_<br>
+[Temy](http://temy.co/){target=_blank}
+
+- Onboarding for new Android members
+- Weekly meetups organization
+- One-to-ones with Android team members
+- Helping to create and manage personal development plans for team members
+- Supporting teammates in techtalks/workshops creation
+
+---
+
 _Senior Android Software Developer (2015 - Current)_<br>
-[Team Technologies](http://temy.com/)
+[Temy](http://temy.co/){target=_blank}
 
 - Android App Development
 - Android SDK Development
 - Documentation creation and maintenance
 - Quality Assurance / Automation Testing
 - Project Management
+- Team Lead & Teach Lead Roles
+- Interviewing & Mentoring
 - Investigation & Estimation
 - Material Design
 - Doze Mode / Idle state support
@@ -32,10 +57,15 @@ _Senior Android Software Developer (2015 - Current)_<br>
 - JNI, C / C++, Cmake, Sockets
 - Bluetooth SCO / Handling events with SPP Socket and Default Vendor Events
 - Application Security implementation using encryption (JCA and Android Key Store)
+- Integration of PDF Viewing services like [PSPDFKit](https://pspdfkit.com/) and [PDFTron](https://www.pdftron.com/)
+- Implementation of PDF Rendering library based on Googles [Pdfium](https://pdfium.googlesource.com/pdfium/) library
 - React Native integration
+- Flutter Apps development
 - Battery lifetime optimizations
 - Realm database
 - Location-based services
+
+---
 
 _Android Software Developer, Team Lead (2011 - 2015)_<br>
 [Lemberg Solutions Limited](https://lemberg.co.uk/)
@@ -73,7 +103,7 @@ This is so cool - not to invent your own wheel if there is someone who have done
 
 The same holds for articles and presentations.
 
-- Author of technical [Blog](/blog/best-practice-application.md)
+- Author of technical [Blog](/blog/best-practice-application/)
 - Author on [Medium](https://medium.com/@yakivmospan) online publishing platform
 - Author of [webinars](https://www.youtube.com/channel/UC51s9JkZeO4ezCuJugFiKFg/videos) in Android Dev Ua community
 - Author of technical articles at [Material Doc](https://materialdoc.com/)

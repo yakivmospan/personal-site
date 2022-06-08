@@ -5,62 +5,129 @@ site_author: 'Yakiv Mospan'
 site_url: 'https://yakivmospan.com'
 
 # Repository
-repo_name: 'GitHub'
-repo_url: 'https://github.com/yakivmospan/personal-site'
+edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2017 - 2018 Yakiv Mospan'
+copyright: 'Copyright &copy; 2017 - 2022 Yakiv Mospan'
 
 # Documentation and theme
-theme_dir: 'material'
-site_favicon: 'assets/images/favicon.ico'
+theme:
+  name: null
+  custom_dir: material
+  # Language for theme localization
+  language: en
+
+  # Text direction (can be ltr or rtl), default: ltr
+  direction:
+
+  # Feature flags for functionality that alters behavior significantly, and thus
+  # may be a matter of taste
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.sections
+
+  # Sets the primary and accent color palettes as defined in the Material Design
+  # documentation - possible values can be looked up in the getting started guide
+  palette:
+
+    # Primary color used for header, sidebar and links, default: indigo
+    primary: teal
+
+    # Accent color for highlighting user interaction, default: indigo
+    accent: teal
+
+  # Fonts used by Material, automatically loaded from Google Fonts - see the site
+  # for a list of available fonts
+  font:
+
+    # Default font for text
+    text: Roboto
+
+    # Fixed-width font for code listings
+    code: Roboto Mono
+
+  # From Material 5.x on, icons are inlined into the HTML and CSS as SVGs. Some
+  # icons that are part of the HTML can be configured and replaced
+  icon:
+    logo: 'material/android'
+
+  # Favicon to be rendered
+  favicon: 'assets/images/favicon.ico'
+
+  # Material includes the search in the header as a partial, not as a separate
+  # template, so it's correct that search.html is missing
+  include_search_page: false
+
+  # Material doesn't use MkDocs search functionality but provides its own. For
+  # this reason, only the search index needs to be built
+  search_index_only: true
+
+  # Static pages to build
+  static_templates:
+    - 404.html
 
 # Options
 extra:
-  palette:
-    primary: 'teal'
-    accent: 'teal'
-  logo:
-    icon: 'android'
-  feature:
-    tabs: false
+  generator: false
   social:
-    - type: 'github'
+    - icon: 'fontawesome/brands/github'
       link: 'https://github.com/yakivmospan'
-    - type: 'stack-overflow'
+    - icon: 'fontawesome/brands/stack-overflow'
       link: 'https://stackoverflow.com/users/1805989/yakiv-mospan'
-    - type: 'twitter'
+    - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/yakivmospan'
-    - type: 'slideshare'
+    - icon: 'fontawesome/brands/slideshare'
       link: 'https://speakerdeck.com/yakivmospan'
-    - type: 'linkedin'
+    - icon: 'fontawesome/brands/linkedin'
       link: 'https://www.linkedin.com/in/yakiv-mospan-823a92a8/'
-    - type: 'facebook'
+    - icon: 'fontawesome/brands/facebook'
       link: 'https://www.facebook.com/yakiv.mospan'
-    - type: 'instagram'
+    - icon: 'fontawesome/brands/instagram'
       link: 'https://www.instagram.com/yakivmospan/'
+  analytics:
+    provider: google
+    property: UA-65908354-4
+
+extra_css:
+  - stylesheets/extra.css
 
 # Extensions
 markdown_extensions:
   - admonition
   - meta
   - codehilite
-  - toc(permalink=true)
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
 
-# Google Analytics
-google_analytics:
-  - 'UA-65908354-4'
-  - 'auto'
-
-pages:
+nav:
+  - About:
     - About: index.md
     - Experience: experience.md
     - Portfolio: portfolio.md
     - Contact: contact.md
-    - Blog:
-      - Best Practice - Application: blog/best-practice-application.md
-      - Best Practice - SharedPreferences: blog/best-practice-shared-preferences.md
-      - Volley Request Manager: blog/volley-request-manager.md
-      - Volley Mini Request Manager: blog/volley-mini-request-manager.md
-      - Say hello to Pebble: blog/say-hello-to-pebble.md
-      - Ghosts in office: blog/ghosts-in-office.md
+  - Blog:
+      - Blog: blog/index.md
+      - 2019:
+        - iOS Multiple Projects Workspace Setup: https://medium.com/temy/ios-multiple-projects-workspace-setup-672ba96649e3" target="_blank
+      - 2018:
+        - Dynamic textures in Sceneform: https://medium.com/temy/dynamic-textures-in-sceneform-98d7a2d35406" target="_blank
+        - GDG DevFest Ukraine 2018, Mobile Sessions: https://proandroiddev.com/gdg-devfest-ukraine-2018-mobile-sessions-8a5f22882e77" target="_blank
+        - Secure data in Android — Initialization Vector: https://proandroiddev.com/secure-data-in-android-initialization-vector-6ca1c659762c" target="_blank
+      - 2017:
+        - Secure data in Android — Encrypting Large Data: https://proandroiddev.com/secure-data-in-android-encrypting-large-data-dda256a55b36" target="_blank
+        - Secure data in Android — Encryption in Android (Part 2): https://proandroiddev.com/secure-data-in-android-encryption-in-android-part-2-991a89e55a23" target="_blank
+        - Secure data in Android — Encryption in Android (Part 1): https://proandroiddev.com/secure-data-in-android-encryption-in-android-part-1-e5fd150e316f" target="_blank
+        - Secure data in Android — Encryption: https://proandroiddev.com/secure-data-in-android-encryption-7eda33e68f58" target="_blank
+        - Have you ever tried to convert Github Wiki into PDF?: https://medium.com/@yakivmospan/did-you-ever-try-to-convert-github-wiki-in-pdf-c3078538bf12" target="_blank
+      - Older:
+        - Best Practice - Application: blog/best-practice-application.md
+        - Best Practice - SharedPreferences: blog/best-practice-shared-preferences.md
+        - Volley Request Manager: blog/volley-request-manager.md
+        - Volley Mini Request Manager: blog/volley-mini-request-manager.md
+        - Say hello to Pebble: blog/say-hello-to-pebble.md
+        - Ghosts in office: blog/ghosts-in-office.md
