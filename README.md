@@ -7,6 +7,7 @@ Install python3, then create a virtual env in project folder:
 python3 -m venv .venv
 ```
 
+
 Activate it:
 ```
 source .venv/bin/activate
