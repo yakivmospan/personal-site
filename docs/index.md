@@ -8,7 +8,7 @@
 
 I like video games since I was a child. Beautiful and creative worlds and histories, amazing animation and charismatic characters - games pushed me to become a developer.
 
-Today I'm a Mobile Developer at [Temy](http://temy.co/){target=_blank} and Founder of [Mospan Tales](https://mospantales.com/). Author. Contributor. Love what I do, working hard to become better, and, of course, not forgetting to have some fun.
+Today I'm a Mobile Developer at [Temy](http://temy.co/){target=_blank} and Founder of [Mospan Tales](https://mospantales.com/en/). Author. Contributor. Love what I do, working hard to become better, and, of course, not forgetting to have some fun.
 
 ## Hobbies & Interests
 
