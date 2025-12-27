@@ -1,6 +1,6 @@
 
 <i style="width:10px; margin-left:10px; margin-right:15px; color: #009688;" class="fa fa-envelope "></i>yakiv.mospan@gmail.com
-<i style="text-align:center; width:10px; margin-left:10px; margin-right:15px; color: #009688;" class="fa fa-map-marker "></i>Lviv, Ukraine
+<i style="text-align:center; width:10px; margin-left:10px; margin-right:15px; color: #009688;" class="fa fa-map-marker "></i>Ustrzyki Dolne, Poland
 
 <i style="width:10px; margin-left:10px; margin-right:15px; color: #009688;" class="fa fa-linkedin "></i>[LinkedIn](https://www.linkedin.com/in/yakiv-mospan-823a92a8/)
 <i style="width:10px; margin-left:10px; margin-right:10px; color: #009688;" class="fa fa-facebook "></i>[Facebook](https://www.facebook.com/yakiv.mospan)
@@ -15,6 +15,6 @@
   height="350px"
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/view?key=AIzaSyAcofTOh2S6qt_sKohq6ehp7peIk7_RTpE
-    &center=49.833,24.001&zoom=12">
+    &center=49.430208,22.590697&zoom=12">
 </iframe>
 </p>

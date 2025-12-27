@@ -1,24 +1,54 @@
 ## Technical Skills
 
-_(Ordered by experience level)_
-
 - OOP/OOD concepts and principles
 - UI/UX design principles
 - Java
-- Android
 - Kotlin
+- Android
+- Swift
+- iOS
 - Flutter
 - Dart
-- JavaScript
-- React Native
-- JNI
-- C / C++
 - C#
 - Unity
+- JNI
+- C / C++
+- JavaScript
+- React Native
+- HTML, CSS
 
 ## Work History
 
-_Competence Center Leader (end of 2021 - Current)_<br>
+_Founder, Lead Developer, Art Designer and Game Designer (2022 - Current)_<br>
+[Mospan Tales](https://mospantales.com/en/){target=_blank}
+
+- Unity 2D game development
+- Unity UI & key systems development
+- Enemies AI development
+- Designing key game mechanics
+- Designing game levels and enemies
+- Audio design and implementation (Audacity)
+- Pixel art design & animations (Aseprite)
+
+---
+
+
+_Senior Mobile Software Developer (2022 - Current)_<br>
+[Temy](http://temy.co/){target=_blank}
+
+- Android & iOS App Support and Development
+- Android & iOS SDK Support and Development
+- Android & iOS Accessibility support
+- Android & iOS white label app setup and support
+- CI, Fastlane & Gradle optimizations, custom tasks, scripts
+- Redesigning iOS app design with Storyboards & XIBs
+- Android Compose & iOS SwiftUI integration
+- Kotlin Coroutines & Swift Async / Await integration
+- Implementation of embedded webview elements running HTML, CSS & JS
+
+---
+
+_Competence Center Leader (2021 - 2022)_<br>
 [Temy](http://temy.co/){target=_blank}
 
 - Helping Competence Leaders to setup and manage Competence Groups
@@ -28,7 +58,7 @@ _Competence Center Leader (end of 2021 - Current)_<br>
 
 ---
 
-_Android Competence Group Leader (2019 - Current)_<br>
+_Android Competence Group Leader (2019 - 2022)_<br>
 [Temy](http://temy.co/){target=_blank}
 
 - Onboarding for new Android members
@@ -39,7 +69,7 @@ _Android Competence Group Leader (2019 - Current)_<br>
 
 ---
 
-_Senior Android Software Developer (2015 - Current)_<br>
+_Senior Android Software Developer (2015 - 2022)_<br>
 [Temy](http://temy.co/){target=_blank}
 
 - Android App Development
@@ -91,6 +121,13 @@ _Bachelor's degree, Computer Science (2009 - 2013)_<br>
 
 - Started developing at the end of second course
 - Started to work at Lemberg Solution Limited at the beginning of the third course
+
+## Founder
+
+A few years ago I've finally made it - [Mospan Tales](https://mospantales.com/en/),
+a solo Mobile Indie Games Studio. There, during my free time and together with my family, I'm creating my own tales.
+
+- Currently in progress - [The D Adventure](https://thedadventure.mospantales.com/en/), a 2D mobile action platformer game with a dinosaur theme, focused on fast-paced gameplay and handcrafted levels.
 
 ## Contributor
 

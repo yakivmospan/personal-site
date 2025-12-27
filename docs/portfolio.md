@@ -1,6 +1,14 @@
+## The D Advantures
+_Work In Progress. For more details check out the [website](https://thedadventure.mospantales.com/en/)._
 
+Unity based 2D mobile action platformer with dinosaurs theme. Go on the journey together with D, long neck dino, to find the best present for someone very special to him.
+
+Collect sweet bubbles, find missing eggs, jump around dangerous environments, unlock power-ups, and fight various enemies and bosses. All in colorful 2D pixel art style!
+
+![](/assets/images/portfolio-thedadventures-thumbnail.png)
 
 ## YUMPU News
+_Android & iOS apps_<br>
 
 Find and read the premium magazines and newspapers that you know and hundreds more that you don’t - all for one single monthly fee YUMPU offers the best content to entertain, inspire, and educate you.
 
@@ -9,6 +17,7 @@ Read smart! With the YUMPU newsstand app you can read magazines and newspapers i
 ![](/assets/images/portfolio-yumpu-news-thumbnail.png)
 
 ## APPKiosk
+_Android & iOS apps_<br>
 
 The future of digital magazine publishing is here: The Yumpu – Digital Publishing App is an all-in-one digital publishing solution that lets you present all your magazines combined in a single kiosk app.
 
