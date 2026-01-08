@@ -32,10 +32,10 @@ theme:
   palette:
 
     # Primary color used for header, sidebar and links, default: indigo
-    primary: teal
+    primary: black
 
     # Accent color for highlighting user interaction, default: indigo
-    accent: teal
+    accent: deep purple
 
   # Fonts used by Material, automatically loaded from Google Fonts - see the site
   # for a list of available fonts
